@@ -1,0 +1,14 @@
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\bin\Debug\net9.0\CircularArray.exe
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\bin\Debug\net9.0\CircularArray.deps.json
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\bin\Debug\net9.0\CircularArray.runtimeconfig.json
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\bin\Debug\net9.0\CircularArray.dll
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\bin\Debug\net9.0\CircularArray.pdb
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.AssemblyInfoInputs.cache
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.AssemblyInfo.cs
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.csproj.CoreCompileInputs.cache
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.dll
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\refint\CircularArray.dll
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.pdb
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\CircularArray.genruntimeconfig.cache
+C:\Users\jeppe\RiderProjects\design-patterns\CircularArray\obj\Debug\net9.0\ref\CircularArray.dll
